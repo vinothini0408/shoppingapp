@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/shoppingapp1/static/css/main.570007a4.css",
+    "main.js": "/shoppingapp1/static/js/main.46ef834f.js",
+    "static/js/453.05343817.chunk.js": "/shoppingapp1/static/js/453.05343817.chunk.js",
+    "static/media/Dress.jpg": "/shoppingapp1/static/media/Dress.386b22e883c777febfa2.jpg",
+    "static/media/dress4.jpg": "/shoppingapp1/static/media/dress4.7714aebcefcef3026bcf.jpg",
+    "static/media/dress7.jpg": "/shoppingapp1/static/media/dress7.22b16d36dfdd77fe84be.jpg",
+    "static/media/mobile.jpg": "/shoppingapp1/static/media/mobile.ab47b907b563d7c76ec2.jpg",
+    "static/media/dress8.jpg": "/shoppingapp1/static/media/dress8.5b11e594a32ab151e85b.jpg",
+    "static/media/dress5.jpg": "/shoppingapp1/static/media/dress5.aeb02834cd931c42894f.jpg",
+    "static/media/dress1.jpg": "/shoppingapp1/static/media/dress1.e4a7a2b9a5aa361c84b9.jpg",
+    "static/media/dress10.jpg": "/shoppingapp1/static/media/dress10.6acf16918d501c42fe6f.jpg",
+    "static/media/dress6.jpg": "/shoppingapp1/static/media/dress6.6c6a0167a96e26c9cdf3.jpg",
+    "static/media/dress11.jpg": "/shoppingapp1/static/media/dress11.ebc68810f9ee82b57ef8.jpg",
+    "static/media/dress12.jpg": "/shoppingapp1/static/media/dress12.5b723d354791b84b0fc9.jpg",
+    "static/media/dress14.jpg": "/shoppingapp1/static/media/dress14.92e0a32d19059edf6d0a.jpg",
+    "static/media/dress3.jpg": "/shoppingapp1/static/media/dress3.0300df8708b768d71c3b.jpg",
+    "static/media/dress9.jpg": "/shoppingapp1/static/media/dress9.55ffce31a7ad3e89d70c.jpg",
+    "static/media/dress2.jpg": "/shoppingapp1/static/media/dress2.88348cf38fd47fb4d905.jpg",
+    "static/media/dress13.jpg": "/shoppingapp1/static/media/dress13.c87d86a5dd5e091a7e4b.jpg",
+    "static/media/dress16.jpg": "/shoppingapp1/static/media/dress16.06a0799c0a7ba3c31416.jpg",
+    "static/media/dress15.jpg": "/shoppingapp1/static/media/dress15.0aca5518e649ac0a5973.jpg",
+    "static/media/logo.jpg": "/shoppingapp1/static/media/logo.1d80185b64c0e4e66765.jpg",
+    "static/media/mobile9.jpg": "/shoppingapp1/static/media/mobile9.c9bc6facdbbf6b6f3f54.jpg",
+    "static/media/mobile6.jpg": "/shoppingapp1/static/media/mobile6.4200940976929f1674f4.jpg",
+    "static/media/mobile8.jpg": "/shoppingapp1/static/media/mobile8.142bf3cea8dcc4e4a654.jpg",
+    "static/media/mobile4.jpg": "/shoppingapp1/static/media/mobile4.6e26d63ca3306d303994.jpg",
+    "index.html": "/shoppingapp1/index.html",
+    "main.570007a4.css.map": "/shoppingapp1/static/css/main.570007a4.css.map",
+    "main.46ef834f.js.map": "/shoppingapp1/static/js/main.46ef834f.js.map",
+    "453.05343817.chunk.js.map": "/shoppingapp1/static/js/453.05343817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570007a4.css",
+    "static/js/main.46ef834f.js"
+  ]
+}
