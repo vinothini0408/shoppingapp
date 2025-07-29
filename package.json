@@ -2,6 +2,7 @@
   "name": "shoppingapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vinothini0408.github.io/shoppingapp1",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -12,11 +13,8 @@
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.6.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
- "homepage": "https://vinothini0408.github.io/shoppingapp"
-
-
-
+    "web-vitals": "^2.1.4"
+ 
   },
   "scripts": {
     "start": "react-scripts start",
